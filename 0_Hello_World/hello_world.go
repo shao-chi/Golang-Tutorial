@@ -1,4 +1,3 @@
-// 宣告程式屬於哪個 package
 package main
 
 import (

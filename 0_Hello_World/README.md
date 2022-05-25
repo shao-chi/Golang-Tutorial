@@ -11,3 +11,10 @@
 `./hello_world`
 
 * compile + execute `go run hello_world.go`
+
+### Format
+* [gofmt](https://pkg.go.dev/cmd/gofmt)
+
+    ```bash
+    go fmt hello_world.go
+    ```
