@@ -4,7 +4,7 @@
 1. Basics
     * [Packages, Variables, & Functions](/1_1_Basics/)
     * [Flow Control Statements](/1_2_Basics/)
-    * More Types
+    * [More Types](/1_3_Basics/)
 2. Methods and Interfaces
 3. Generics
 4. Concurrency
