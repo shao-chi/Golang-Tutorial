@@ -6,6 +6,8 @@
     * [Flow Control Statements](/1_2_Basics/)
     * [More Types](/1_3_Basics/)
 2. Methods and Interfaces
+    * [Methods](/2_1_Methods/)
+    * Interfaces
 3. Generics
 4. Concurrency
 
