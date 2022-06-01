@@ -7,7 +7,7 @@
     * [More Types](/1_3_Basics/)
 2. Methods and Interfaces
     * [Methods](/2_1_Methods/)
-    * Interfaces
+    * [Interfaces](/2_2_Interfaces/)
 3. Generics
 4. Concurrency
 
