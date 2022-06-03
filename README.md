@@ -8,7 +8,7 @@
 2. Methods and Interfaces
     * [Methods](/2_1_Methods/)
     * [Interfaces](/2_2_Interfaces/)
-3. Generics
+3. [Generics](/3_Generics/)
 4. Concurrency
 
 
